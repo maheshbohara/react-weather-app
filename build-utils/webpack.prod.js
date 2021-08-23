@@ -5,7 +5,7 @@ module.exports = {
   devtool: "source-map",
   output: {
     path: path.resolve(__dirname, "../", "dist"),
-    publicPath: "/weather-app/",
+    publicPath: "/react-weather-app/",
     filename: "bundle.js",
   },
 };
