@@ -1,0 +1,9 @@
+node_modules
+.idea
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+build
+dist
